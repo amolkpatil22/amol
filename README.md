@@ -1,1 +1,2 @@
 # amol
+writting first code
